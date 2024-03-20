@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "698499522005",
+    "project_id": "myundeproject",
+    "storage_bucket": "myundeproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698499522005:android:108bdd2920bf12256cb15c",
+        "android_client_info": {
+          "package_name": "com.heyhari.MyundeProject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698499522005-iios98o3gkogrhifiev90hrdvi9qs48n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.heyhari.MyundeProject",
+            "certificate_hash": "0a48eda6eea2bb4f07a1223062fbf6594d39423f"
+          }
+        },
+        {
+          "client_id": "698499522005-5a0qq9nbjo0vei9ka5vfs3tjh4pkte7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG7wVymueziFD61O_K8aaIaBoOn1ywNSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698499522005-5a0qq9nbjo0vei9ka5vfs3tjh4pkte7u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
